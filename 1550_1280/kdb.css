@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+article {
+  width: 1550px;
+  height: 1280px;
+  margin: 0;
+  padding: 0;
+  background-color: #31313b;
+}
